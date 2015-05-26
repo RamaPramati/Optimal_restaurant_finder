@@ -1,0 +1,191 @@
+1, 6.0, fish
+1, 10.0, pasta, idly, rissotto, pizza, puri, burger, egg
+1, 8.0, rissotto
+1, 6.0, egg, idly, puri, burger, fish, pizza
+1, 5.0, idly
+1, 3.0, fish, puri, burger, pasta, pizza
+1, 7.0, puri
+1, 9.0, pasta, idly, burger, pizza, egg
+1, 5.0, pizza
+1, 3.0, idly, rissotto, pizza, pasta, fish, burger, puri
+1, 9.0, pasta
+1, 6.0, pizza, rissotto, pasta, egg
+1, 9.0, fish, pizza
+1, 4.0, pasta, pizza, idly, rissotto, fish, puri
+1, 7.0, pasta, fish, rissotto, idly
+1, 10.0, pizza, pasta, egg, rissotto, idly
+2, 9.0, pizza
+2, 8.0, burger, pizza, fish, idly, pasta, puri, egg
+2, 9.0, pasta
+2, 6.0, burger, pasta, puri, rissotto, pizza
+2, 9.0, egg
+2, 10.0, idly, fish, burger, pizza, egg
+2, 9.0, puri
+2, 2.0, fish, pizza, egg, puri, idly
+2, 3.0, fish, burger, pizza, rissotto, egg
+2, 4.0, fish
+2, 3.0, pasta, puri, idly, fish
+2, 8.0, pasta, fish, pizza, rissotto, egg
+2, 2.0, burger
+2, 9.0, burger, fish, pasta, rissotto, idly, pizza, egg, puri
+2, 8.0, fish, egg, pasta, idly, pizza
+2, 8.0, pizza, rissotto, pasta, egg, idly, fish, burger
+2, 5.0, puri, rissotto, pasta, egg, idly
+2, 10.0, egg, rissotto, pizza, puri, pasta, idly, fish
+2, 3.0, idly
+2, 10.0, rissotto, burger, fish, idly, puri, pizza, egg
+2, 9.0, rissotto
+3, 3.0, pasta
+3, 4.0, rissotto, pizza, egg, puri
+3, 6.0, pizza
+3, 3.0, pasta, rissotto, idly, pizza, puri, burger
+3, 8.0, burger
+3, 3.0, burger, fish, pizza, egg, idly, puri
+3, 7.0, idly
+3, 10.0, egg, pizza, puri, rissotto, idly, fish, burger, pasta
+3, 6.0, fish
+3, 5.0, pasta, rissotto, puri, idly
+3, 2.0, rissotto
+3, 7.0, pizza, puri, rissotto, burger, pasta, egg, fish
+3, 3.0, egg
+3, 7.0, fish, pasta
+3, 5.0, pasta, burger, pizza, fish, egg, rissotto, idly
+3, 4.0, rissotto, pasta, pizza, burger, fish, idly, puri
+3, 5.0, puri
+3, 4.0, puri, egg, pizza
+3, 2.0, idly, pasta, burger, puri, fish, pizza
+3, 3.0, pasta, fish, burger, puri, egg, pizza
+3, 7.0, rissotto, burger, egg, pasta
+4, 7.0, fish
+4, 10.0, idly, burger, puri
+4, 5.0, puri
+4, 4.0, idly, fish, puri, rissotto, burger, pizza, egg
+4, 8.0, rissotto
+4, 3.0, rissotto, egg, pasta, idly
+4, 10.0, pizza, rissotto, burger, egg, idly, fish
+4, 8.0, egg
+4, 5.0, pasta, idly, puri, egg, burger, pizza, rissotto, fish
+4, 9.0, pizza
+4, 3.0, puri, fish, rissotto, egg
+4, 3.0, idly, rissotto, egg, pasta, fish, puri
+5, 6.0, idly
+5, 6.0, fish, idly, egg, pasta, puri, burger
+5, 2.0, egg
+5, 8.0, burger, pasta, pizza, fish, puri, rissotto
+5, 4.0, pasta
+5, 10.0, burger, pasta, egg, fish, rissotto
+5, 4.0, burger
+5, 4.0, pizza, rissotto, pasta
+5, 10.0, rissotto
+5, 7.0, pasta, pizza, idly, burger
+5, 6.0, puri
+5, 9.0, burger, egg, pasta, pizza, rissotto, idly, fish
+5, 5.0, fish
+5, 7.0, puri, fish, idly, burger, rissotto
+5, 9.0, egg, puri, pizza, pasta, burger, idly, rissotto, fish
+5, 3.0, pizza, pasta, puri, rissotto
+5, 4.0, puri, rissotto, egg, burger, pizza, pasta
+5, 4.0, pizza
+5, 4.0, egg, pizza, pasta, fish
+5, 6.0, pasta, puri, pizza, rissotto, burger, idly
+5, 7.0, idly, pasta
+6, 2.0, fish
+6, 7.0, burger, egg, pizza, puri, rissotto, idly
+6, 5.0, pizza
+6, 7.0, pizza, fish, idly
+6, 9.0, burger, pizza, idly
+6, 3.0, burger, idly, puri, rissotto, pasta, egg
+6, 6.0, burger
+6, 7.0, pasta, rissotto, burger, idly, fish, pizza, puri, egg
+6, 7.0, rissotto
+6, 3.0, rissotto, burger, fish, puri
+6, 10.0, puri
+6, 3.0, fish, pizza, burger, pasta, rissotto, idly, puri
+6, 8.0, rissotto, pasta, pizza, fish, egg, burger
+6, 3.0, burger, egg, pizza, fish, idly, puri
+6, 6.0, egg
+6, 7.0, idly
+7, 5.0, puri
+7, 4.0, fish, pasta, rissotto, pizza, egg
+7, 8.0, pasta
+7, 7.0, burger, puri, idly, pizza, rissotto, egg
+7, 3.0, egg
+7, 5.0, burger, pasta, fish, puri, egg
+7, 2.0, fish
+7, 4.0, idly, burger, egg
+7, 6.0, rissotto
+7, 8.0, fish, egg, pasta
+7, 3.0, fish, egg, rissotto, pasta, puri, burger, pizza
+7, 7.0, burger
+7, 4.0, fish, pasta, rissotto, egg, puri, pizza, idly
+7, 8.0, idly
+7, 2.0, puri, rissotto
+7, 6.0, pizza
+7, 3.0, egg, burger, rissotto, pasta, idly, puri, fish
+7, 3.0, burger, idly, pizza, egg
+7, 4.0, idly, fish, puri
+7, 3.0, pasta, idly
+7, 9.0, pizza, burger, pasta, puri, fish
+7, 6.0, burger, idly, egg, puri
+7, 9.0, idly, egg, fish
+7, 6.0, pizza, egg
+7, 6.0, pasta, egg, burger, fish, rissotto, pizza, idly
+7, 8.0, idly, fish, pasta
+7, 8.0, pasta, pizza, fish
+7, 2.0, burger, egg, pizza, pasta, rissotto, idly
+8, 3.0, rissotto
+8, 8.0, pizza, fish, idly, pasta, puri, rissotto
+8, 6.0, burger
+8, 5.0, fish, idly, rissotto, puri, egg
+8, 10.0, pizza
+8, 10.0, fish, puri, idly, rissotto, egg, pizza, pasta, burger
+8, 9.0, pasta
+8, 9.0, idly, pasta, pizza, egg, burger, rissotto
+8, 8.0, puri
+8, 6.0, fish, pizza, rissotto
+8, 5.0, fish
+8, 2.0, puri, pizza, idly, rissotto, fish
+8, 3.0, pasta, burger, fish, rissotto
+8, 6.0, fish, pizza, burger, puri, rissotto
+8, 9.0, fish, idly, pizza, pasta, burger, rissotto
+8, 3.0, fish, rissotto, puri
+8, 3.0, idly, pasta, rissotto, fish, egg
+8, 7.0, egg
+8, 5.0, burger, fish, pasta, egg
+8, 2.0, fish, puri
+8, 9.0, puri, idly, burger, pasta, rissotto
+9, 2.0, puri
+9, 7.0, pizza, puri
+9, 10.0, burger
+9, 5.0, pasta, fish
+9, 6.0, rissotto
+9, 6.0, fish, idly, pizza, puri, rissotto, burger, egg
+9, 10.0, idly
+9, 5.0, rissotto, pizza, puri, pasta, idly, fish, egg
+9, 2.0, egg
+9, 2.0, puri, pasta, rissotto
+9, 3.0, fish
+9, 6.0, pasta, fish, burger
+9, 8.0, puri, pasta, idly, fish
+9, 6.0, puri, rissotto, fish, idly
+9, 9.0, pizza
+9, 5.0, pasta, pizza, egg, idly, burger
+9, 9.0, fish, egg
+9, 10.0, pasta, puri, fish, pizza, egg, burger, idly
+9, 10.0, egg, pizza, puri
+9, 4.0, fish, rissotto, pizza, burger, egg
+9, 10.0, pasta, pizza, puri, burger, egg, rissotto, idly, fish
+10, 3.0, idly
+10, 6.0, fish, idly
+10, 8.0, rissotto, pasta, puri, egg, fish, pizza, burger, idly
+10, 9.0, puri, pizza, fish
+10, 8.0, rissotto, idly
+10, 2.0, rissotto
+10, 9.0, burger, pasta, rissotto, puri, egg
+10, 2.0, egg
+10, 7.0, puri, egg
+10, 6.0, pizza
+10, 8.0, rissotto, fish, puri, idly, egg, burger, pizza
+10, 8.0, puri
+
+

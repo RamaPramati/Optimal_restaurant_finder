@@ -1,0 +1,235 @@
+1, 3.0, rissotto
+1, 10.0, wada, chicken
+1, 6.0, wada
+1, 5.0, pizza, wine, egg, dosa
+1, 8.0, wine, rissotto, chicken, wada, fish, idly, egg
+1, 7.0, dosa
+1, 5.0, wine, idly, fish, rissotto, wada
+1, 5.0, fish
+1, 2.0, dosa, pizza, idly, egg, wine, rissotto
+1, 9.0, idly
+1, 4.0, fish, egg, wada, idly, pizza, wine, rissotto, dosa, chicken
+1, 8.0, dosa, rissotto, idly, pizza, wine, fish, chicken
+1, 2.0, rissotto, chicken, idly, egg, dosa, wine, wada, fish
+1, 9.0, chicken
+1, 8.0, dosa, idly, rissotto, wine, fish, pizza, egg, chicken
+1, 2.0, egg
+1, 5.0, egg, chicken, pizza, rissotto, wada, dosa
+1, 5.0, pizza, chicken
+1, 9.0, wine, dosa, fish, chicken
+1, 6.0, wine, fish
+2, 3.0, rissotto
+2, 2.0, chicken, dosa, idly, fish
+2, 3.0, dosa
+2, 9.0, idly, chicken, wada, fish, pizza, wine, egg, dosa
+2, 4.0, idly
+2, 7.0, rissotto, egg, dosa, chicken, fish, pizza
+2, 3.0, wada
+2, 6.0, egg, rissotto
+2, 10.0, pizza
+2, 2.0, rissotto, idly, pizza, wine, wada, dosa, egg
+2, 6.0, fish, egg, wine, chicken, dosa
+2, 2.0, chicken
+2, 2.0, idly, chicken, egg, pizza, fish, rissotto
+2, 5.0, dosa, egg, chicken, fish, rissotto, idly, wada
+2, 3.0, dosa, idly, wine, chicken
+2, 8.0, wine, pizza, rissotto, egg, dosa, fish, idly
+2, 7.0, rissotto, chicken, wine, idly, dosa, egg, pizza, wada
+2, 3.0, dosa, egg, pizza, wine
+2, 9.0, dosa, egg, wada, rissotto, idly
+2, 6.0, pizza, idly, fish
+2, 10.0, fish
+2, 7.0, egg, chicken, pizza, wine, wada, idly, rissotto, dosa, fish
+2, 2.0, fish, dosa
+2, 9.0, pizza, wada, chicken, wine, dosa, fish, idly
+2, 5.0, fish, idly
+2, 8.0, rissotto, wine, pizza, idly, dosa, wada, egg, fish
+3, 9.0, pizza
+3, 3.0, pizza, rissotto, chicken
+3, 7.0, chicken
+3, 6.0, rissotto, chicken, wada, egg, idly, fish, wine, dosa, pizza
+3, 7.0, idly
+3, 9.0, wine, idly, chicken, dosa
+3, 5.0, rissotto
+3, 6.0, idly, egg, fish, wine
+3, 9.0, fish, dosa, wine, rissotto, pizza, idly, wada
+3, 7.0, wine
+3, 8.0, wada
+3, 6.0, wine, rissotto
+3, 3.0, fish
+3, 8.0, chicken, wine, rissotto, dosa, wada, fish
+3, 4.0, chicken, wada, fish, dosa, rissotto, egg
+3, 9.0, fish, chicken, dosa, pizza, rissotto, wine, idly, egg
+3, 5.0, dosa
+3, 7.0, egg, chicken, pizza, idly
+3, 3.0, egg
+3, 9.0, wada, fish, chicken, idly, pizza, egg, rissotto, wine
+3, 5.0, chicken, fish
+4, 8.0, fish
+4, 3.0, idly, egg, chicken, wada, rissotto, pizza
+4, 6.0, dosa
+4, 10.0, wada, dosa, wine, pizza, rissotto, chicken, egg, fish
+4, 7.0, chicken
+4, 5.0, rissotto, pizza, egg, wine, idly, chicken
+4, 4.0, egg
+4, 10.0, pizza, wine, chicken, rissotto, dosa, fish, wada, idly
+4, 5.0, idly, pizza, dosa, wada, rissotto, chicken, egg
+4, 2.0, pizza, wada, egg, fish, idly
+4, 3.0, wine
+4, 8.0, egg, rissotto, idly, dosa
+4, 3.0, wada
+4, 8.0, idly, rissotto, wada, dosa
+4, 9.0, wine, idly, rissotto, fish, egg, chicken
+4, 7.0, pizza
+4, 4.0, chicken, wine, idly, fish, dosa, pizza, rissotto
+4, 10.0, dosa, egg, rissotto, fish, wada, idly, wine
+4, 5.0, egg, pizza, dosa, chicken, wine, wada
+4, 8.0, rissotto, dosa, egg, pizza, wine, fish, chicken
+4, 2.0, wine, egg, rissotto, idly, dosa, chicken
+4, 9.0, rissotto
+4, 5.0, wine, fish, egg, rissotto
+4, 9.0, rissotto, fish, idly
+5, 3.0, rissotto
+5, 10.0, idly, fish, wada, dosa, egg
+5, 9.0, fish
+5, 5.0, idly, dosa
+5, 7.0, pizza, dosa, wine, wada, egg, rissotto, chicken, idly, fish
+5, 9.0, idly
+5, 5.0, rissotto, egg, chicken, wada, idly, dosa
+5, 10.0, egg
+5, 5.0, dosa, pizza, fish, rissotto
+5, 5.0, wada, egg, fish, chicken
+5, 8.0, chicken
+5, 5.0, idly, pizza, wine
+5, 7.0, dosa
+5, 7.0, egg, chicken, wada, idly, wine, fish, dosa, rissotto
+5, 4.0, chicken, idly, pizza, rissotto, wada, fish
+5, 6.0, wada
+5, 3.0, dosa, pizza
+5, 10.0, wine, pizza
+5, 7.0, egg, idly, fish
+5, 5.0, egg, idly, chicken, fish, wada, dosa
+5, 8.0, wine
+5, 8.0, wada, dosa, egg, pizza
+5, 5.0, dosa, chicken, pizza, idly, wine, wada
+5, 5.0, fish, chicken, idly, wine, egg, rissotto, pizza
+5, 8.0, wine, dosa, fish, rissotto
+6, 2.0, wine
+6, 9.0, pizza, fish, egg
+6, 8.0, chicken, dosa
+6, 10.0, pizza
+6, 3.0, fish, pizza
+6, 8.0, rissotto
+6, 4.0, egg, pizza, dosa, rissotto, fish
+6, 7.0, idly
+6, 9.0, rissotto, fish, chicken, dosa, wada, idly, wine, egg, pizza
+6, 6.0, idly, wada, rissotto, pizza, egg
+6, 2.0, chicken
+6, 5.0, chicken, egg, fish, idly, wada
+6, 9.0, chicken, egg, rissotto, fish, wada, pizza
+6, 2.0, idly, egg, wine
+6, 10.0, fish
+6, 2.0, wine, pizza, wada
+6, 7.0, egg
+6, 9.0, chicken, pizza, wine, wada
+6, 4.0, wada, dosa, rissotto, chicken, wine, pizza
+6, 9.0, dosa
+6, 7.0, fish, rissotto, chicken
+6, 8.0, wada, pizza, egg, dosa
+6, 2.0, wada
+6, 7.0, idly, chicken, pizza
+6, 9.0, pizza, idly
+6, 3.0, chicken, idly, egg, pizza, rissotto
+6, 5.0, egg, fish, idly, wine, pizza, wada, rissotto
+6, 8.0, idly, fish, rissotto, egg, chicken, wine, pizza
+6, 3.0, dosa, rissotto, chicken, fish, pizza
+7, 8.0, chicken
+7, 8.0, idly, wine, wada, dosa, egg, pizza, rissotto
+7, 8.0, fish
+7, 4.0, dosa, pizza, egg, wada, fish, wine
+7, 4.0, idly
+7, 4.0, wine, dosa, pizza, idly
+7, 7.0, wada, rissotto, egg, fish, wine, idly, pizza
+7, 5.0, wada
+7, 6.0, egg, chicken, dosa, rissotto, wine, fish
+7, 8.0, rissotto, dosa, idly, wada, fish, wine, egg
+7, 3.0, idly, chicken, wada
+7, 9.0, pizza
+7, 4.0, rissotto
+7, 2.0, idly, egg, pizza, dosa, wada, chicken
+7, 3.0, wine, pizza, rissotto, egg, dosa, fish, idly, chicken, wada
+7, 9.0, chicken, dosa, rissotto, wine, wada
+7, 9.0, dosa
+7, 2.0, dosa, pizza, rissotto, wine, wada, chicken, egg, fish
+7, 7.0, pizza, wine
+7, 4.0, pizza, rissotto, wada, wine, egg, idly, chicken
+7, 7.0, chicken, egg, fish, wada, wine
+8, 10.0, wine
+8, 5.0, egg, chicken, dosa, wine, pizza, wada, idly
+8, 7.0, pizza
+8, 10.0, chicken, wada, idly, egg, pizza, fish
+8, 2.0, wine, rissotto, pizza
+8, 8.0, egg
+8, 4.0, wine, wada, egg, pizza
+8, 10.0, dosa, egg, fish, idly, wine, rissotto
+8, 4.0, chicken
+8, 6.0, pizza, chicken
+8, 7.0, rissotto
+8, 5.0, dosa, wine, rissotto, idly, fish, wada, egg, pizza, chicken
+8, 9.0, fish
+8, 6.0, wine, wada, fish, rissotto, dosa, egg, idly
+8, 4.0, rissotto, pizza, dosa, wine, idly, wada, egg
+8, 10.0, pizza, chicken, rissotto, wine, wada, egg, dosa
+8, 2.0, rissotto, fish, egg
+8, 5.0, dosa
+8, 3.0, chicken, dosa, egg, idly, wada, wine, fish, pizza
+9, 5.0, dosa
+9, 8.0, egg, wada, fish, pizza, wine, rissotto, chicken
+9, 7.0, pizza
+9, 9.0, pizza, dosa, egg, wine, rissotto
+9, 9.0, chicken
+9, 10.0, chicken, wada, wine, dosa, idly, egg
+9, 9.0, rissotto
+9, 4.0, rissotto, dosa, chicken, fish, pizza, wada, idly, egg
+9, 8.0, wada
+9, 4.0, wada, egg, fish, wine, rissotto
+9, 10.0, wine
+9, 4.0, rissotto, egg, fish, wada
+9, 8.0, wada, idly, fish, dosa
+9, 10.0, idly
+9, 6.0, chicken, pizza, idly, wine, rissotto, egg, dosa
+9, 7.0, dosa, idly, egg, rissotto, wine, wada, pizza
+9, 6.0, fish, wine, chicken, idly, dosa, pizza, wada, egg
+9, 2.0, fish, chicken, dosa
+9, 5.0, egg
+9, 9.0, idly, dosa, wine
+9, 3.0, dosa, chicken, wada, egg, rissotto, fish, wine, pizza
+9, 6.0, idly, wine, rissotto, fish
+9, 4.0, fish
+9, 5.0, wine, chicken, fish, pizza, egg, rissotto
+9, 3.0, wada, pizza, dosa, wine, chicken
+10, 9.0, egg
+10, 3.0, dosa, chicken, idly
+10, 8.0, pizza
+10, 8.0, pizza, wada, egg, idly, fish, wine
+10, 4.0, fish, chicken, wine, wada, rissotto, idly, pizza, egg
+10, 5.0, idly
+10, 9.0, chicken, wine, dosa, egg
+10, 3.0, wada
+10, 10.0, dosa, chicken, idly, wine, egg, rissotto, wada
+10, 10.0, chicken
+10, 4.0, chicken, pizza, egg, wine, wada, fish, dosa, idly
+10, 4.0, fish
+10, 3.0, idly, fish, egg, wada, pizza
+10, 9.0, chicken, rissotto, idly
+10, 10.0, idly, fish, egg, wada
+10, 10.0, rissotto
+10, 7.0, idly, chicken, wada, fish
+10, 2.0, dosa
+10, 8.0, egg, chicken, rissotto, wine, dosa, fish
+10, 9.0, fish, rissotto, egg, pizza, chicken, wine, idly, dosa, wada
+10, 9.0, chicken, idly, egg, pizza, wine, wada, dosa, rissotto
+10, 5.0, wine
+10, 9.0, fish, chicken, idly, pizza, dosa, rissotto, egg
+10, 5.0, fish, dosa
+10, 9.0, pizza, wada, idly, rissotto, chicken
