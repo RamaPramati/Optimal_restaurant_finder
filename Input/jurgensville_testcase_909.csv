@@ -1,0 +1,122 @@
+1, 8.0, rissotto
+1, 2.0, omelette, beer, uttapam, pasta, wada, rissotto
+1, 10.0, uttapam
+1, 5.0, uttapam, beer, wada, chicken, rissotto, pasta, omelette, idly, egg
+2, 6.0, idly
+2, 6.0, wada, pasta, rissotto, egg
+2, 3.0, pasta, beer, rissotto, uttapam, chicken, omelette
+2, 8.0, rissotto
+2, 3.0, uttapam, chicken, beer
+2, 3.0, omelette
+2, 10.0, beer, pasta, uttapam, rissotto
+2, 6.0, uttapam
+2, 2.0, idly, beer, uttapam, rissotto
+2, 6.0, beer
+2, 4.0, chicken, beer, uttapam, idly, omelette, rissotto
+2, 6.0, wada
+2, 4.0, rissotto, egg, wada, chicken, omelette, idly, pasta, beer, uttapam
+2, 6.0, egg, rissotto, idly, pasta, omelette, uttapam
+3, 10.0, chicken
+3, 2.0, egg, wada, uttapam, pasta, chicken, beer, idly, rissotto
+3, 9.0, beer
+3, 9.0, chicken, idly, rissotto, omelette, uttapam, egg, beer
+3, 9.0, wada
+3, 8.0, omelette, egg, beer, uttapam, pasta, rissotto, idly, wada
+3, 6.0, pasta
+3, 8.0, idly, wada
+3, 4.0, egg
+3, 10.0, pasta, uttapam, beer, idly
+3, 9.0, rissotto
+3, 2.0, rissotto, uttapam
+3, 7.0, omelette, wada, uttapam, beer, pasta, egg, chicken, rissotto
+4, 8.0, rissotto
+4, 8.0, idly, egg, pasta, rissotto, omelette, beer
+4, 4.0, chicken
+4, 7.0, egg, chicken, beer
+4, 6.0, beer
+4, 4.0, idly, rissotto, omelette, pasta, wada, egg, chicken, beer
+4, 4.0, uttapam
+4, 5.0, idly, wada, pasta
+4, 3.0, omelette, beer, egg, rissotto, idly, pasta, uttapam, chicken, wada
+4, 7.0, pasta
+4, 10.0, rissotto, egg, pasta, omelette, wada
+4, 9.0, uttapam, egg, pasta, chicken, rissotto, idly, omelette
+4, 3.0, idly, pasta, wada, uttapam
+4, 2.0, pasta, beer, rissotto
+4, 8.0, idly
+4, 5.0, omelette, pasta, chicken, rissotto, egg, idly, beer
+4, 6.0, pasta, wada, idly, rissotto, chicken, egg, uttapam
+4, 3.0, egg
+4, 7.0, beer, pasta, idly, wada, chicken, uttapam, egg, omelette
+5, 10.0, uttapam
+5, 4.0, beer, wada, egg, chicken, uttapam, pasta, idly, rissotto
+5, 7.0, beer
+5, 6.0, chicken, uttapam, egg
+5, 2.0, pasta
+5, 10.0, uttapam, rissotto, idly, wada
+5, 10.0, omelette
+5, 7.0, egg, pasta, wada, chicken, uttapam, beer
+5, 5.0, egg
+5, 7.0, wada, idly, beer, pasta, rissotto, chicken, egg, omelette
+5, 8.0, idly
+5, 5.0, rissotto, omelette, idly, wada
+5, 9.0, rissotto
+5, 6.0, wada, omelette, pasta, egg, rissotto, uttapam, idly, beer
+5, 2.0, chicken
+5, 5.0, omelette, idly, beer, uttapam, wada, egg, chicken, rissotto
+5, 9.0, uttapam, pasta, egg
+6, 6.0, pasta
+6, 4.0, pasta, egg, idly, uttapam
+6, 7.0, idly
+6, 10.0, chicken, wada, egg, omelette, pasta
+6, 2.0, idly, uttapam, beer, pasta, chicken, wada, omelette
+6, 5.0, rissotto, beer, omelette, chicken, egg, uttapam
+6, 9.0, omelette
+6, 6.0, uttapam, omelette, pasta, idly
+7, 10.0, chicken
+7, 2.0, beer, egg
+7, 10.0, omelette
+7, 3.0, beer, egg, chicken, uttapam, omelette, pasta, wada
+7, 6.0, pasta, beer, rissotto, uttapam, omelette, chicken, idly
+7, 5.0, egg
+7, 4.0, uttapam, egg, idly, beer, wada, chicken, rissotto
+7, 5.0, idly, chicken, wada, egg, pasta, uttapam, beer, omelette, rissotto
+8, 5.0, wada
+8, 10.0, wada, chicken, uttapam, egg, pasta, rissotto, omelette
+8, 5.0, egg
+8, 6.0, pasta, egg, rissotto, chicken, idly, wada, omelette
+8, 7.0, rissotto
+8, 4.0, wada, rissotto, beer, uttapam, pasta, egg
+8, 8.0, uttapam
+8, 10.0, wada, idly, omelette, chicken
+8, 6.0, chicken
+8, 3.0, beer, egg, idly, rissotto, chicken, wada
+8, 9.0, chicken, idly, pasta, omelette, egg, rissotto, uttapam, wada, beer
+8, 7.0, pasta, egg, uttapam, chicken, wada
+8, 4.0, pasta, wada, uttapam, omelette, egg, beer, rissotto
+8, 9.0, chicken, uttapam, pasta, wada, beer, rissotto, egg
+8, 3.0, omelette
+8, 3.0, pasta, omelette, idly, egg, rissotto, beer, uttapam, chicken
+9, 9.0, uttapam
+9, 4.0, wada, beer, idly, omelette, chicken, egg
+9, 6.0, wada
+9, 2.0, idly, uttapam, chicken, omelette, egg
+9, 3.0, egg, uttapam, pasta, beer, idly, omelette, rissotto, chicken
+9, 4.0, rissotto
+9, 5.0, uttapam, wada, idly
+9, 6.0, idly
+9, 10.0, egg, pasta, chicken, omelette, rissotto, beer, uttapam, idly, wada
+9, 3.0, chicken
+9, 8.0, chicken, uttapam, pasta
+9, 6.0, egg
+9, 6.0, beer, wada
+9, 8.0, pasta
+9, 4.0, rissotto, idly, omelette, beer, egg, wada, uttapam
+10, 3.0, omelette
+10, 8.0, chicken, wada, rissotto, egg, beer
+10, 2.0, pasta
+10, 7.0, pasta, uttapam, beer, wada, idly, omelette, egg
+10, 4.0, egg
+10, 9.0, uttapam, idly, omelette, wada
+10, 3.0, beer
+10, 4.0, uttapam, pasta, egg, idly, rissotto

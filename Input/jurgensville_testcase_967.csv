@@ -1,0 +1,160 @@
+1, 7.0, burger
+1, 3.0, idly, uttapam, pizza, burger, egg, pasta
+1, 6.0, egg
+1, 10.0, pizza, idly, uttapam, burger, egg, pasta, wine, wada, puri, fish
+1, 10.0, uttapam
+1, 2.0, idly, wada, pasta, burger, pizza
+1, 10.0, idly
+1, 10.0, puri, burger, wine, egg, pizza, fish
+1, 10.0, wine
+1, 3.0, pizza
+1, 6.0, egg, uttapam, pasta, fish, idly, wada, wine, puri
+1, 8.0, idly, pasta
+1, 8.0, egg, puri
+2, 4.0, pasta
+2, 8.0, wine, puri, wada, egg, idly, burger
+2, 6.0, egg
+2, 9.0, idly, fish, puri, wada, pizza
+2, 6.0, uttapam
+2, 6.0, pasta, wine, wada, burger, pizza, fish
+2, 5.0, puri
+2, 3.0, idly, pasta, uttapam, wada, fish, pizza
+2, 5.0, wada
+2, 7.0, idly, puri, wine, wada, burger, egg, pasta
+2, 4.0, idly, pizza
+2, 10.0, idly
+2, 3.0, pasta, wine, uttapam, fish, idly, burger, wada, pizza, egg, puri
+2, 2.0, wine
+2, 4.0, wada, pizza, burger, wine, fish, uttapam, puri, egg, idly
+3, 6.0, egg
+3, 10.0, pizza, wine
+3, 3.0, fish
+3, 5.0, fish, pizza, pasta, idly, egg, wine, burger, puri, uttapam
+3, 5.0, puri
+3, 7.0, wada, uttapam, wine, egg, pasta, idly, burger, puri, fish
+3, 4.0, wine, puri, burger, wada, idly
+3, 3.0, wada
+3, 5.0, uttapam, wada, puri, fish, wine
+3, 7.0, pizza
+3, 6.0, uttapam, wine, burger, idly, pizza, egg, puri, wada
+4, 7.0, pizza
+4, 2.0, wine, fish, wada, pasta, pizza, idly
+4, 8.0, pasta
+4, 4.0, burger, pizza, fish, uttapam, puri, wine, pasta, wada
+4, 6.0, fish
+4, 5.0, wine, uttapam, pasta, idly, egg, pizza, wada
+4, 5.0, uttapam
+4, 9.0, wada, idly, pasta
+4, 6.0, puri
+4, 8.0, burger, wine, pasta, wada
+4, 6.0, puri, fish, uttapam, wada, egg, idly, burger
+4, 4.0, burger, wada, pizza, pasta, uttapam, fish, puri
+5, 3.0, idly
+5, 7.0, egg, idly
+5, 4.0, wine
+5, 4.0, burger, wada
+5, 8.0, pizza
+5, 7.0, idly, pasta, wada, puri, wine, burger, uttapam
+5, 7.0, pasta, fish
+5, 9.0, pasta
+5, 4.0, pizza, idly, egg, pasta, puri, uttapam, fish
+5, 6.0, puri
+5, 2.0, puri, uttapam, pasta, egg, idly, wada, fish, pizza, burger
+5, 8.0, burger
+5, 6.0, fish, idly, puri, wada
+6, 6.0, idly
+6, 9.0, puri, wada, uttapam, burger
+6, 10.0, puri
+6, 9.0, uttapam, idly, egg, puri, pizza, wine, pasta, fish
+6, 2.0, burger
+6, 3.0, wada, egg, pasta, fish, burger, wine, uttapam, puri, pizza, idly
+6, 8.0, wada
+6, 10.0, wine, pizza, egg
+6, 9.0, pizza
+6, 2.0, idly, uttapam, puri, burger, wine, pizza, wada, pasta, fish
+6, 7.0, pasta
+6, 5.0, pasta, fish, wine, idly, puri, burger, egg, pizza, wada
+6, 3.0, pizza, wine, egg, pasta, uttapam, idly, wada, fish, puri
+6, 10.0, fish
+6, 10.0, pasta, puri, burger, uttapam, wada, egg
+6, 5.0, wine, burger
+6, 4.0, wine
+6, 8.0, egg
+6, 7.0, pasta, wine, puri, egg
+6, 9.0, uttapam, idly, wada, fish, pizza, puri, pasta, burger, egg
+6, 5.0, wine, idly, burger, fish, wada, pizza, puri, uttapam
+6, 5.0, egg, fish, wine, idly, burger, puri
+6, 9.0, egg, pizza, wine, pasta
+6, 2.0, puri, egg, idly
+7, 6.0, burger
+7, 7.0, wine, uttapam, egg, idly
+7, 2.0, pasta
+7, 8.0, pasta, burger
+7, 9.0, wada
+7, 5.0, wada, fish, pasta, egg
+7, 5.0, puri
+7, 7.0, puri, pizza, fish
+7, 5.0, egg
+7, 9.0, burger, puri, uttapam
+7, 10.0, wine
+7, 4.0, wada, egg, pasta, fish, wine, idly, pizza
+7, 3.0, pasta, puri, fish, idly, wine
+7, 7.0, pasta, uttapam
+7, 6.0, egg, idly
+7, 3.0, fish, wada, pizza, uttapam, pasta, wine
+8, 3.0, pizza
+8, 4.0, wada, wine, uttapam, puri, burger
+8, 4.0, burger
+8, 5.0, fish, egg, burger
+8, 3.0, wada
+8, 4.0, fish, wine, pasta, burger, pizza, puri
+8, 3.0, fish
+8, 7.0, wine, burger
+8, 7.0, pasta
+8, 8.0, fish, wada, uttapam, burger, idly
+8, 4.0, wine
+8, 7.0, idly, egg, uttapam, wine, pizza, wada, puri, fish, pasta, burger
+8, 9.0, uttapam
+8, 4.0, idly, wine, pizza, fish
+8, 6.0, puri
+8, 4.0, burger, idly, pizza, fish, puri, wada, egg, wine, uttapam
+8, 3.0, egg
+8, 5.0, egg, pasta, burger, puri, uttapam, wine, fish, wada, pizza
+8, 3.0, egg, pasta, puri, idly, wine, uttapam, fish, wada, pizza
+8, 6.0, pasta, egg, puri, pizza
+8, 3.0, wine, puri, egg, idly
+8, 7.0, burger, puri
+8, 3.0, wada, pizza, puri
+9, 9.0, wada
+9, 10.0, egg, pasta
+9, 5.0, puri
+9, 6.0, puri, fish, pasta, uttapam, egg, pizza, idly, wine, wada, burger
+9, 9.0, idly
+9, 4.0, wada, pasta, idly, pizza
+9, 9.0, fish
+9, 8.0, wine
+9, 8.0, uttapam, wada, puri, burger, wine, pizza, pasta, idly, egg
+9, 10.0, burger
+9, 8.0, pasta, burger, wada, egg, uttapam, fish, wine, pizza, idly
+9, 6.0, uttapam, fish, pasta, idly
+9, 4.0, pizza
+9, 7.0, idly, burger, wada, pasta, wine, fish, puri, egg, pizza
+9, 8.0, pasta
+10, 10.0, uttapam
+10, 6.0, pizza, wada, fish, wine, pasta, idly, puri, egg
+10, 8.0, fish
+10, 2.0, fish, egg, uttapam, burger, puri, pizza, pasta
+10, 8.0, burger, uttapam, egg, idly, pasta, wada, pizza, puri
+10, 4.0, pizza
+10, 3.0, pasta, burger, idly, pizza, wine, wada, egg, uttapam, fish, puri
+10, 6.0, egg
+10, 10.0, wada
+10, 8.0, wine, uttapam, pizza
+10, 9.0, wine
+10, 3.0, pasta, pizza
+10, 4.0, burger
+10, 7.0, pasta, fish, wine, egg, idly
+10, 6.0, pizza, egg, wine
+10, 6.0, pasta
+10, 7.0, puri, wada, egg, burger, pizza
+10, 7.0, idly, uttapam, puri, egg, wine, fish
